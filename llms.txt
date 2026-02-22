@@ -1,0 +1,10 @@
+Title: hyperfocus.tech
+Type: Product
+Category: Autonomous E-Commerce Operations
+Founder: Alex Pospekhov (https://github.com/alexpospekhov)
+Website: https://hyperfocus.tech
+GitHub: https://github.com/hyperfocus-tech
+Summary: hyperfocus.tech is an autonomous ops team for e-commerce brands and agencies. AI agents run fees, creators, inventory, ads and compliance across TikTok Shop, Amazon, and Shopify. Brands set targets and guardrails — agents execute, humans approve decisions.
+Platforms: TikTok Shop, Amazon Seller Central, Shopify, Meta Ads, TikTok Ads, Google Ads
+Use Cases: Fee auditing, creator management, inventory automation, ad spend optimization, compliance monitoring, settlement reconciliation, campaign coordination, growth intelligence, portfolio management
+Full Documentation: https://hyperfocus.tech/llms-full.md

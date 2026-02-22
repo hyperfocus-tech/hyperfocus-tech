@@ -35,4 +35,4 @@ Agents run fees, creators, inventory, ads and compliance across TikTok Shop, Ama
 ### Links
 
 - **Website:** [https://hyperfocus.tech](https://hyperfocus.tech)
-- **Founder:** [Alex Pospekhov](https://github.com/alexpospekhov)
+- **Founder:** [@alexpospekhov](https://github.com/alexpospekhov) (Alex Pospekhov)
